@@ -5,7 +5,7 @@
 <p align="center">
     Lading Page criada com o intuíto de mostrar minhas habilidades com HTML5, CSS3 e Javascript.
     <br />
-    <a href="https://my-portfolio-puce-eight-62.vercel.app/"><strong>Explore o documento »</strong></a>
+    <a href="https://lading-page-coca-cola.vercel.app/"><strong>Explore o documento »</strong></a>
     <br />
   </p>
 </div>
@@ -40,10 +40,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](www.exemplo.com)
 
-O meu portfólio é um site 'one page' que conta um pouco sobre mim e sobre as minhas habilidades.
-Nele, também é possível acessar alguns dos meus projetos.
+Lading Page criada com o intuíto de mostrar minhas habilidades para recrutadores e clientes que se interessarem pelo meu trabalho.
 
-Os conteúdos principais a serem utilizados são:
+As tecnologias utilizadas foram:
 
 - HTML5
 - CSS3
@@ -54,7 +53,7 @@ Os conteúdos principais a serem utilizados são:
 
 <!-- GOAL-->
 ## **Objetivo**
-O objetivo deste site, é levar um pouco sobre mim para possíveis recrutadores, e também mostrar mais das minhas habilidades.
+O objetivo deste site, é para criar portfólio e mostrar um para clientes como ficaria uma possível lading page do seu negócio.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,7 +73,7 @@ O objetivo deste site, é levar um pouco sobre mim para possíveis recrutadores,
 ### **Deployment**
 
 Vercel:
-https://my-portfolio-puce-eight-62.vercel.app/
+https://lading-page-coca-cola.vercel.app/
 
 <!-- GETTING STARTED -->
 ## Getting Started 
@@ -90,7 +89,7 @@ Para ter uma copia local, siga os passos abaixo:
 
 1. Clone do repositório
    ```sh
-   git clone https://github.com/lucasbreiafullstack/my-portfolio.git
+   git clone https://github.com/lucasbreiafullstack/lading-page-coca-cola.git
    ```
 
 
@@ -99,7 +98,7 @@ Para ter uma copia local, siga os passos abaixo:
 <!-- USAGE -->
 ## Uso
 
-Site onde você pode navegar para conhecer mais sobre mim e interagir.
+Lading Page de demostração para recrutadores e clientes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,16 +107,7 @@ Site onde você pode navegar para conhecer mais sobre mim e interagir.
 
 -  Início
 	* Página de apresentação. 
--  Sobre mim
-	* Página contando um pouco mais sobre mim.
--  Serviços
-    * Informações sobre os serviços que eu presto.
--  Especialidades
-    * Contando mais sobre as minhas habilidades.
--  Projetos
-    * Página com projetos feitos por mim.
--  Contato
-    * Página com os meus contatos e para entrarem em contato comigo.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +116,7 @@ Site onde você pode navegar para conhecer mais sobre mim e interagir.
 
 Lucas Breia  - lucas.devfullstack021@gmail.com
 
-Project Link: [https://github.com/lucasbreiafullstack/my-portfolio](https://github.com/lucasbreiafullstack/my-portfolio)
+Project Link: [https://lading-page-coca-cola.vercel.app/](https://lading-page-coca-cola.vercel.app/)
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrejaques/)](https://www.linkedin.com/in/lucas-breia/)
@@ -154,7 +144,7 @@ Project Link: [https://github.com/lucasbreiafullstack/my-portfolio](https://gith
 [license-url]: https://github.com/marinajaudy/projeto-react-apis/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/marinajaudy
-[product-screenshot]: /image/portfolio.png
+[product-screenshot]: /images/cocafoto.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
